@@ -1,2 +1,7 @@
 # go-crud2
-Golang Viet Nam - Workshop 3 - Restful API (cont'd)
+##### Project codes for Golang Viet Nam's Workshop 3.
+Create Restful API using [Gin](https://github.com/gin-gonic/gin) & [Gorm](https://gorm.io) ([PostgreSQL](https://www.postgresql.org/))
+
+
+
+
